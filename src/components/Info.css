@@ -1,0 +1,13 @@
+.content {
+  border: 1px solid #e2e2e2;
+  height: 30vh;
+  min-height: 30vh;
+  display: flex;
+  direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content svg {
+  position: relative;
+}
